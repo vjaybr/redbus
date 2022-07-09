@@ -1,6 +1,7 @@
 this is test doc
-and looking into git
-happy
+
 Strange things happen in life
 some are changing rest of life
 some are change the channel :)
+
+this is merge test
