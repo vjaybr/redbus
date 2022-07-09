@@ -3,5 +3,10 @@ this is test doc
 Strange things happen in life
 some are changing rest of life
 some are change the channel :)
+<<<<<<< HEAD
 
 this is merge test
+=======
+kjsdjflkdsaj
+skfjdslfjds
+>>>>>>> bf892dc8ed7dff6bdb118125f59a479c08f0bac6
